@@ -1,7 +1,7 @@
 Package.describe({
     name: 'fearm:mongo2es',
     summary: 'create hooks for MongoDB collection to sync with ElasticSearch',
-    version: '0.0.5',
+    version: '0.0.1',
     git: 'https://github.com/fearm/alino-mongo2es.git'
 });
 
